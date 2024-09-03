@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: register-app
-          image: sonika168/register-app-pipeline:1.0.0-990
+          image: sonika168/register-app-pipeline:1.0.0-992
           resources:
             limits:
               memory: "256Mi"
